@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+    height: 100vh;
+    margin: 0;
+}
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+#chart{
+    width: 1500px;
+    height: 800px;
+    margin: auto auto;
+
+    background-color: lightslategrey;
+    border-radius: 10px;
+    box-shadow: 0 0 10px 10px grey;
+}
